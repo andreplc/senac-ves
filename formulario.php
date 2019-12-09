@@ -7,7 +7,7 @@
 
 <body>
 
-	<h1> Olá mundo XXX </h1>	
+	<h1> Olá mundo ANDREsdfsdf </h1>	
 	<form name="form1" method="GET" action="array2.php">
 		<label>Numero 1 </label>
 		<input type="text" name="numero1" /></br>
